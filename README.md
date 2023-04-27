@@ -4,7 +4,7 @@
 
 #### Week 1 (6 Modules) : Learning Mainly
 ##### Modules
-- [ ] [Installation of software](https://school.brainhackmtl.org/modules/installation/)
+- [ ] [**Installation of software](https://school.brainhackmtl.org/modules/installation/)
 - [ ] 
 - [ ]
 - [ ]
