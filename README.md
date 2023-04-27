@@ -1,6 +1,6 @@
 # DHCLAIRE.github.io
 
-### (TEMP) Brainhack Taiwan 2023 Progess
+### (TEMP) Brainhack Taiwan 2023 Course Progess
 
 #### Week 1 (6 Modules) : Learning Mainly
 ##### Modules
@@ -13,9 +13,9 @@
 
 #### Week 2 (3 Modules) : Learning Half; Proposed the project's proposal
 ##### Modules
-- [ ]
-- [ ]
-- [ ]
+- [ ] [Machine learning for neuroimaging]()
+- [ ] []()
+- [ ] []()
 
 ##### THE Project
 - [ ]
